@@ -4,16 +4,20 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Package: mortgagekit](https://img.shields.io/pypi/v/mortgagekit?color=brightgreen&label=mortgagekit)](https://pypi.org/project/mortgagekit/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Amazon](https://img.shields.io/badge/Amazon-Available%20on%20Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0HKYDTK8C/)
 
 <p align="left">
-  <img src="https://m.media-amazon.com/images/I/71sseRBOoVL._SL1500_.jpg" alt="Mortgage Markets in the Age of AI" width="300" />
+  <a href="https://www.amazon.com/dp/B0HKYDTK8C/">
+    <img src="https://m.media-amazon.com/images/I/71sseRBOoVL._SL1500_.jpg" alt="Mortgage Markets in the Age of AI" width="300" />
+  </a>
 </p>
 
 Companion open-source codebase, Jupyter notebooks, and empirical pricing models for the book:
 
 > **Mortgage Markets in the Age of AI**  
 > *From Cash Flows, Stochastic Processes to AI Modeling: From Household Financial Decisions to Secondary Market MBS Pricing*  
-> **Authors:** Chiu Yan & Xuan Xin
+> **Authors:** Chiu Yan & Xuan Xin  
+> **Get the Book:** [Available on Amazon](https://www.amazon.com/dp/B0HKYDTK8C/)  
 > **Website & Issues:** [https://github.com/henrywoo/mortgage-markets-in-the-age-of-ai](https://github.com/henrywoo/mortgage-markets-in-the-age-of-ai)
 
 ---
